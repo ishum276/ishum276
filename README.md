@@ -2,8 +2,6 @@
 
 <h3 align ="center">Final Year Student😀</h3>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=ishaan012.ishaan012)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ishum276)](https://github.com/ryo-ma/github-profile-trophy)
 
  - 🔭 I’m currently learning NextJS framework 
