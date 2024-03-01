@@ -4,8 +4,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ishum276)](https://github.com/ryo-ma/github-profile-trophy)
 
- - 🔭 I’m currently learning NextJS framework 
-
  - 👨‍💻 All of my projects are available at https://github.com/ishum276?tab=repositories
 
  - 📫 E-mail: ishum276@gmail.com
@@ -15,7 +13,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,py,react,mysql,mongodb,figma,adobeXD" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,py,react,mysql,mongodb,figma,adobexd" />
 </a>
 </p>
 
