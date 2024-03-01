@@ -13,7 +13,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,py,react,mysql,mongodb,figma,adobexd" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,java,py,react,mysql,mongodb,figma,xd" />
 </a>
 </p>
 
