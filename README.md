@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Ishu Malik! 👋</h1>
 
 <h3 align ="center">A passionate Front-End Developer with a strong foundation in creating responsive and visually appealing web interfaces using HTML, CSS, and JavaScript.😀 </h3>
-<div style="height: 20px"></div>
+<br> <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ishum276)](https://github.com/ryo-ma/github-profile-trophy)
 
  - 👨‍💻 All of my projects are available at https://github.com/ishum276?tab=repositories
