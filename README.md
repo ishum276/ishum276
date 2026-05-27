@@ -57,16 +57,4 @@ Observability     →   Grafana · Step-level logging · Multi-env validation
 Architecture      →   Registry-Adapter-Engine · RBAC · Distributed Systems
 ```
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishum276&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishum276&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishum276&theme=tokyonight&no-frame=true&row=1" />
-</p>
